@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A8B028128A4261004AACE0"
-               BuildableName = "libextobjc_iOS.a"
-               BlueprintName = "libextobjc (iOS)"
-               ReferencedContainer = "container:extobjc.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0CFB60E128A8EEE006DC377"
-               BuildableName = "iOS Tests.octest"
-               BlueprintName = "iOS Tests"
+               BlueprintIdentifier = "5F7CD2EE1C3352BF00640B07"
+               BuildableName = "extobjc.framework"
+               BlueprintName = "extobjc"
                ReferencedContainer = "container:extobjc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0CFB60E128A8EEE006DC377"
-               BuildableName = "iOS Tests.octest"
-               BlueprintName = "iOS Tests"
-               ReferencedContainer = "container:extobjc.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <AdditionalOptions>
       </AdditionalOptions>
@@ -69,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0A8B028128A4261004AACE0"
-            BuildableName = "libextobjc_iOS.a"
-            BlueprintName = "libextobjc (iOS)"
+            BlueprintIdentifier = "5F7CD2EE1C3352BF00640B07"
+            BuildableName = "extobjc.framework"
+            BlueprintName = "extobjc"
             ReferencedContainer = "container:extobjc.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5F7CD2EE1C3352BF00640B07"
+            BuildableName = "extobjc.framework"
+            BlueprintName = "extobjc"
+            ReferencedContainer = "container:extobjc.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
